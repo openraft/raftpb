@@ -1,4 +1,4 @@
-module github.com/openraft/raftpb
+module github.com/sprintframework/raftpb
 
 go 1.17
 
